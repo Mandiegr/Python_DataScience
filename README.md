@@ -1,5 +1,5 @@
- ## Python  para Ciência de Dados 🐍
-<br/>Tipos de dados
+ ## Python  para Ciência de Dados 🐍 
+<br/>Tipos de dados 🎲
 <br/>Estruturas de controle: condicional e repetição
 <br/>Estruturas de dados: listas, tuplas, conjuntos, dicionários, séries e dataframes 
 <br/>Funções 
