@@ -1,14 +1,13 @@
-##Data sceince 🎲
+ Data sceince 🎲
 
 <br/>Infraestrutura de Big Data;
 <br/>Bancos de Dados;
 <br/>Machine Learning e Deep Learning;
 <br/>Conceitos de Matemática, Estatísticas e Pensamento Lógico;
 <br/>Linguagens de programação voltadas para análise de dados, como Python, R e SQL;
-T<br/>écnicas de apresentação e visualização de dados.
+<br/>Técnicas de apresentação e visualização de dados.
 
-<br/>.soft skills:
-
+soft skills:
 <br/>Pensamento crítico/analítico;
 <br/>Capacidade de resolver problemas;
 <br/>Curiosidade para seguir se aprimorando;
@@ -17,8 +16,7 @@ T<br/>écnicas de apresentação e visualização de dados.
 <br/>Boa comunicação;
 <br/>Colaboração.
 
-<br/>.ferramentas:
-
+ferramentas:
 <br/>Git (sistema de controle de versão para sistemas de dados);
 <br/>Atom e Sublime (editores de texto);
 <br/>RapidMiner (software de ciência de dados);
