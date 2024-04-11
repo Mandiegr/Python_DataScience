@@ -117,6 +117,21 @@ plt.ylabel("População x100.000.000")
 plt.savefig("populacao_brasileira.png", dpi=300)
 
 
+#Boxplot - Diagrama de caixa
+
+import matplotlib.pyplot as plt
+import random
+
+vetor = []
+
+for i in range(100):
+    numero_aleatorio = random.randint(0, 50)
+    vetor.append(numero_aleatorio)
+
+plt.boxplot(vetor)
+plt.title("Boxplot")
+plt.show()
+
 """
 Documentação oficial do Matplotlib
 A seguir, alguns exemplos de argumentos que podem ser aplicados ao método plot( ).
