@@ -1,4 +1,4 @@
-## Roteiro de Estudos para Data Science com foco em Machine Learning:
+### Roteiro de Estudos para Data Science com foco em Machine Learning:
 
 ### 1.Fundamentos:
 
