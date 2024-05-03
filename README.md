@@ -11,13 +11,12 @@
 ## Roteiro de Estudos para Data Science com foco em Machine Learning:
 
 ### 1.Fundamentos:
-
 <br/><strong>Matemática:</strong>
 <br/>Álgebra linear
 <br/>Cálculo diferencial e integral
 <br/>Estatística
 <br/>Probabilidade
-<br/> Curso de matemática para ML https://didatica.tech/matematica-para-machine-learning-curso/
+<br/> Curso de matemática para ML  https://didatica.tech/matematica-para-machine-learning-curso/
 
 <br/><strong>Programação:</strong>
 <br/>Python (linguagem principal)
